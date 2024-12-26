@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aj-myco
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning html, css, and php
+- 🌱 I’m currently learning html, css, js, and php
 - 💞️ I’m looking to collaborate on all students and beginners 
 - 📫 Contact me on my email: ajestor16@gmail.com
 - 😄 Pronouns: he/him
